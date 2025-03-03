@@ -43,7 +43,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dexwatch.git
+git clone https://github.com/KeithTheDev/dexwatch.git
 cd dexwatch
 ```
 
